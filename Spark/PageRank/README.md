@@ -122,3 +122,7 @@ spark-shell
 Select the cluster you want to shut dowm click on the stop and delete
 
 ![image](https://github.com/Ashritha-lopelli/CloudComputing/assets/124090003/482de418-1f39-450c-ad25-75f748c8e0f8)
+
+<h1>Presentation</h1>
+
+[PageRank on Spark](https://docs.google.com/presentation/d/1QD1vApRnZymI3LMzDdzRfiUcDd22tGMser92CN6nN9U/edit#slide=id.p)
