@@ -9,7 +9,7 @@ The MovieLens dataset is widely used as a benchmark for evaluating recommendatio
 <h3>Steps on Colab:</h3>
 
 1. Download the recommendation_movielens1.py file, movies.csv, rating.csv, tags.csv files.
-2. Open and lign to your Google colab.
+2. Open and login to your Google colab.
 3. Upload the recommendation_movielens1 file to the colab.
 4. Also add the movies.csv, rating.csv, tags.csv files to the folder of the colab.
 5. Run all the command on the recommendation_movielens1 file and then Download this file as .py file.
