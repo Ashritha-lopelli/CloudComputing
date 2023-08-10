@@ -109,6 +109,10 @@ producer.close()
 
 * Hence, we can see that the message sent from the producer is correctly received by the consumer
 
+<h3>Google Slides</h3>
+
+[Google slides](https://docs.google.com/presentation/d/1s4sTYT26pFmMHLHrYYeArYl409Vv417B1MDnn8JUOX8/edit#slide=id.p1)
+
 
 
 
